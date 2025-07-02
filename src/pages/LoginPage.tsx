@@ -92,7 +92,7 @@ const LoginPage: React.FC = () => {
             cursor: 'pointer'
           }}
         >
-          Se connecter
+          Se connecte
         </button>
       </form>
     </div>
